@@ -63,7 +63,7 @@
 }
 
 /* -- carousel sopping product --  */
-.cycle-tab-container {
+/* .cycle-tab-container {
   margin: 30px auto;
   width: 800px;
   padding: 20px;
@@ -117,4 +117,4 @@
 .cycle-tab-item.active a {
   border-color: transparent !important;
   color: orange;
-}
+} */
