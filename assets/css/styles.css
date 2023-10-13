@@ -6,10 +6,6 @@
   --bs-transition: 0.6s ease;
 }
 
-/* .hero-sec {
-  margin-top: 130px;
-} */
-
 .hero-sec video {
   width: 100%;
   height: 100vh;
@@ -62,6 +58,12 @@
   font-weight: 700;
   color: var(--bs-red);
   margin-bottom: 16px;
+}
+
+@media (max-width: 500px) {
+  .user-login-sec {
+    width: 90%;
+  }
 }
 
 
